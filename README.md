@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Syed
+Machine Learning enthusiast passionate about building predictive systems and deploying ML applications.
 
-<!--
-**syed-ai-ml-lab/syed-ai-ml-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+==>Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Heart Disease Prediction Web App
+* Heart Disease Prediction
+* Credit Card Fraud Detection
+*  Predict Car Prices  
+* ML Model Explainability using SHAP
+
+---
+
+==> 🛠 Tech Stack:
+
+Python | Scikit-learn | Pandas | Streamlit | Git
+
+---
+
+==>Currently Learning:
+
+Advanced Machine Learning Systems and Deployment
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/syed-ai-ml-lab
