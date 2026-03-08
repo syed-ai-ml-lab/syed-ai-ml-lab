@@ -1,5 +1,5 @@
-Hi, I'm Syed
-Machine Learning enthusiast passionate about building predictive systems and deploying ML applications.
+Hi, I'm Syed Razviuddin
+A Machine Learning enthusiast passionate about building predictive systems and deploying ML applications.
 
 ---
 
